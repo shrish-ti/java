@@ -1,7 +1,7 @@
-package com.practice.spring.OOPS.ChildClasses;
+package com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.ChildClasses;
 
 import com.practice.spring.Constants.VehicleType;
-import com.practice.spring.OOPS.BaseClasses.Vehicles;
+import com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.BaseClasses.Vehicles;
 import lombok.extern.slf4j.Slf4j;
 
 // Example of Encapsulation, Single Inheritance, IS-A RELATIONSHIP BETWEEN PARENT AND CHILD

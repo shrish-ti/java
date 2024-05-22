@@ -1,0 +1,4 @@
+Hierarchical, Hybrid (two types of inheritances)
+MultipleInheritanceInJava not allowed, why? I think it is because of super keyword. Yes, I was correct this is called as
+diamond problem in java and that is why multiple inheritance is not allowed in java
+

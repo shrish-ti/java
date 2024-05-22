@@ -1,0 +1,11 @@
+Abstract classes in java -
+
+At a high level - my class should do a task, example - I want to create a room (this is my definition of work)
+But i dont know how to create a room exactly, so someone else will implement it.
+I know how to fit cement and bricks lets say, but i dont know how to do electrical fitting.
+In this case I will create a skeleton room with finction for bricks n cement, but I will lets say hire someone else to
+make electrical fittings. Now, when that person comes, he has to first put cement n bricks, which i have already done.
+So he needs to implement only electrical fitting functionality. So the class that I create is going to be abstract
+and it cannot be instantiated (what will i do if i make a room without electrical fitting).
+So this, I can define by interface. same functionality can be achieved by abstract classes also.
+The electrical engineers fitting is going to be my concrete class.

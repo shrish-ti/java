@@ -1,8 +1,8 @@
 //package com.practice.spring.OOPS.ChildClasses;
 //
 //import com.practice.spring.Constants.VehicleType;
-//import com.practice.spring.OOPS.BaseClasses.FourWheelers;
-//import com.practice.spring.OOPS.BaseClasses.Vehicles;
+//import com.practice.spring.OOPS.InheritancePolymorphism.BaseClasses.FourWheelers;
+//import com.practice.spring.OOPS.InheritancePolymorphism.BaseClasses.Vehicles;
 //
 //public class CarMultipleInheritance extends Vehicles, FourWheelers {
 //

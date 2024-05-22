@@ -1,4 +1,4 @@
-package com.practice.spring.OOPS.BaseClasses;
+package com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.BaseClasses;
 
 import com.practice.spring.Constants.VehicleType;
 import lombok.AllArgsConstructor;

@@ -1,9 +1,9 @@
 package com.practice.spring;
 
 import com.practice.spring.Constants.VehicleType;
-import com.practice.spring.OOPS.ChildClasses.CarMultilevelInheritance;
-import com.practice.spring.OOPS.ChildClasses.CarSingleInheritanceAndRuntimePolymorphism;
-import com.practice.spring.OOPS.ChildClasses.CompileTimePolymorphism;
+import com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.ChildClasses.CarMultilevelInheritance;
+import com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.ChildClasses.CarSingleInheritanceAndRuntimePolymorphism;
+import com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.ChildClasses.CompileTimePolymorphism;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

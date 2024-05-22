@@ -1,4 +1,4 @@
-package com.practice.spring.OOPS.BaseClasses;
+package com.practice.spring.OOPS.InheritancePolymorphismEncapsulation.BaseClasses;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
